@@ -1,14 +1,8 @@
 package examen;
 
-import examen.core.factories.FactoryRepository;
-import examen.core.factories.FactoryService;
-import examen.core.factories.FactoryView;
-import examen.entities.User;
-import examen.service.connexion.ConnectionService;
-import examen.view.MainView.AdminView;
-import examen.view.MainView.BoutiquierView;
-import examen.view.MainView.ClienteleView;
-import examen.view.connexion.ConnectView;
+
+import examen.view.MainView.ClientView;
+
 
 public class Main {
     public static void main(String[] args) throws ClassNotFoundException {
